@@ -12,7 +12,7 @@ header{
     background-color: orange;
 }
 #main{
-   background-color: white;
+   background-color: maroon;
    width: calc(100% - 200px);
    min-width: 500px;
    float: left;
